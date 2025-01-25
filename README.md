@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Jerin,<br> A passionate Web and Software Developer.
+### <div align="center">Hi, I'm Jerin<br> A Passionate Web and Software Developer.
 </div> 
 
 ---
