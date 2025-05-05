@@ -37,7 +37,7 @@ Outside of coding, I love expressing ideas through drawing and finding inspirati
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="www.linkedin.com/in/jerin-kuma" target="_blank">
+<a href="https://www.linkedin.com/in/jerin-kuma" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
