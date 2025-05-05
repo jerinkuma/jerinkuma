@@ -29,7 +29,7 @@ Outside of coding, I love expressing ideas through drawing and finding inspirati
 
 <div align="center">
 
-<a href="https://www.facebook.com/jerin.kuma.2024" target="_blank">
+<a href="https://www.facebook.com/jerin.kuma" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
