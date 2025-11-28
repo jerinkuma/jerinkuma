@@ -12,7 +12,8 @@
 <div align="center">
 
 I am a creative Web and Software Developer passionate about building intuitive, user-friendly applications. <br>
-Outside of coding, I love expressing ideas through drawing and finding inspiration in books, from tech insights to immersive fiction.<br>
+Outside of coding, I love expressing ideas through drawing and finding inspiration in books, <br>
+From tech insights to immersive fiction.<br>
 </div>
 
 ---
